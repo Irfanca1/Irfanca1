@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Student for Informatics Engineering at UNIKOM Bandung<br>📚 I'm currently learning PHP and Javascript<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🎓 Student for Informatics Engineering at UNIKOM Bandung<br>📚 I'm currently learning PHP and Javascript</p>
 
 ###
 
