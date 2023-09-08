@@ -29,3 +29,14 @@
 </div>
 
 ###
+
+## Github Statistic
+<p align="left">
+<a href="https://github.com/Irfanca1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thrqhdyt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Irfanca1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## Connect with me 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "thoriq_hidayat")](https://www.instagram.com/cchhhooii) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "thoriq_hidayat")]([https://www.linkedin.com/in/thoriq-hidayat-9199b8245](https://www.linkedin.com/in/irfan-choiruddin-559b94237/))
