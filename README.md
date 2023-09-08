@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">🎓 Student for Informatics Engineering at UNIKOM Bandung<br>📚 I'm currently learning PHP and Javascript</p>
+- 🎓 Studies for Informatics Engineering at [UNIKOM](https://www.unikom.ac.id/)
+- 🏡 Lives in **Bandung, Indonesia**
+- 📚 I'm currently learning PHP and Javascript
 
 ###
 
